@@ -2,11 +2,11 @@
 
 [![Join the chat at https://gitter.im/gocd/gocd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gocd/gocd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[GoCD](https://www.gocd.org/) is an open-source continuous delivery server to model and visualize complex workflow with ease.
+[GoCD](https://www.gocd.org/) is an open-source continuous delivery server to model and visualize complex workflows with ease.
 
 # Introduction
 
-This chart bootstraps a single node GoCD server and GoCD agents on a [Kubernetes](http://kubernetes.io) cluster using the [Helm](https://helm.sh) package manager.
+This chart bootstraps a single node GoCD server and GoCD agents on a [Kubernetes](https://kubernetes.io) cluster using the [Helm](https://helm.sh) package manager.
 
 To quickly build your first pipeline while learning key GoCD concepts, visit the [Intro to GoCD guide](https://www.gocd.org/getting-started/part-1/).
 
